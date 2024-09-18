@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ivan and I'm a Systems Engineer, from La Paz - Bolivia</h2>
 
-###
+
 <img align="right" height="150" src="https://github.com/user-attachments/assets/9645e7a5-a4c1-4a02-b573-5b16da174b7f"/>
 ###
 <div align="center">
