@@ -65,9 +65,3 @@
 
 ###
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ObiTobi64/ObiTobi64/output/snake.svg" alt="Snake animation" />
-
-###
