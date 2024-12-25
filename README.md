@@ -56,6 +56,9 @@
 </div>
 
 ###
+![snake gif](https://github.com/ObiTobi64/ObiTobi64/blob/output/github-snake-dark.svg)
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -64,4 +67,7 @@
 </div>
 
 ###
+
+
+
 
